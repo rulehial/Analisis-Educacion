@@ -1,0 +1,44 @@
+COD_ENSE,Descripción,nivel
+0,No Aplica,Media
+10,Educación Parvularia,Parvularia
+110,Enseñanza Básica,Básica
+160,Educación Básica Común Adultos (Decreto 584/2007),Básica
+161,Educación Básica Especial Adultos,Básica
+163,Escuelas Cárceles (Básica Adultos),Básica
+165,Educación Básica Adultos Sin Oficios (Decreto 584/2007),Básica
+167,Educación Básica Adultos Con Oficios (Decreto 584/2007 y 999/2009),Básica
+211,Educación Especial Discapacidad Auditiva,Especial
+212,Educación Especial Discapacidad Intelectual,Especial
+213,Educación Especial Discapacidad Visual,Especial
+214,Educación Especial Trastornos Específicos del Lenguaje,Especial
+215,Educación Especial Trastornos Motores,Especial
+216,Educación Especial Autismo,Especial
+217,"Educación Especial Discapacidad Graves Alteraciones en la Capacidad de Relación y
+Comunicación",Especial
+299,Opción 4 Programa Integración Escolar,Especial
+310,Enseñanza Media H-C niños y jóvenes,Media
+360,Educación Media H-C adultos vespertino y nocturno (Decreto N° 190/1975),Media
+361,Educación Media H-C adultos (Decreto N° 12/1987),Media
+362,Escuelas Cárceles (Media Adultos),Media
+363,Educación Media H-C Adultos (Decreto N°1000/2009),Media
+410,Enseñanza Media T-P Comercial Niños y Jóvenes,Media
+460,Educación Media T-P Comercial Adultos (Decreto N° 152/1989),Media
+461,Educación Media T-P Comercial Adultos (Decreto N° 152/1989),Media
+463,Educación Media T-P Comercial Adultos (Decreto N° 1000/2009),Media
+510,Enseñanza Media T-P Industrial Niños y Jóvenes,Media
+560,Educación Media T-P Industrial Adultos (Decreto N° 152/1989),Media
+561,Educación Media T-P Industrial Adultos (Decreto N° 152/1989),Media
+563,Educación Media T-P Industrial Adultos (Decreto N° 1000/2009),Media
+610,Enseñanza Media T-P Técnica Niños y Jóvenes,Media
+660,Educación Media T-P Técnica Adultos (Decreto N° 152/1989),Media
+661,Educación Media T-P Técnica Adultos (Decreto N° 152/1989),Media
+663,Educación Media T-P Técnica Adultos (Decreto N° 1000/2009),Media
+710,Enseñanza Media T-P Agrícola Niños y Jóvenes,Media
+760,Educación Media T-P Agrícola Adultos (Decreto N° 152/1989),Media
+761,Educación Media T-P Agrícola Adultos (Decreto N° 152/1989),Media
+763,Educación Media T-P Agrícola Adultos (Decreto N° 1000/2009),Media
+810,Enseñanza Media T-P Marítima Niños y Jóvenes,Media
+860,Enseñanza Media T-P Marítima Adultos (Decreto N° 152/1989),Media
+863,Enseñanza Media T-P Marítima Adultos (Decreto N° 1000/2009),Media
+910,Enseñanza Media Artística Niños y Jóvenes,Media
+963,Enseñanza Media Artística Adultos,Media
